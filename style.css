@@ -653,6 +653,12 @@ nav ul li a:hover{
     color: #ee3425;
 }
 
+.Blogs_Date{
+    color: #9A9A9A;
+    font : 14px Ubuntu,sans-serif;
+    font-weight: bold;
+}
+
 .Blogs_Read_Arrow{
     display: flex;
     justify-content: space-between;
@@ -661,6 +667,11 @@ nav ul li a:hover{
     padding-right: 10px;
 }
 
+.Blogs_div h4{
+    color: #ee3425;
+    font : 16px Ubuntu,sans-serif;
+    font-weight: bold;
+}
 
 .view-all{
     display: flex;

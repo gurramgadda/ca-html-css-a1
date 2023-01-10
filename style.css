@@ -562,12 +562,12 @@ nav ul li a:hover{
 }
 
 .video{
-    /* position: relative; */
+    position: relative;
     visibility: hidden;
     height: 45px;
-    /* width: 100%;
+    width: 100%;
     margin-top: 90px;
-    margin-bottom: -5px; */
+    margin-bottom: -5px;
     cursor: pointer;
 }
 
@@ -615,8 +615,8 @@ nav ul li a:hover{
     display: flex;
     justify-content: space-around;
     justify-items: center;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
     margin-top: 30px;
 }
 
@@ -645,6 +645,12 @@ nav ul li a:hover{
     color: #000;
     margin-top: 14px;
     margin-left: 15px;
+}
+
+.ReadMore{
+    font: 14px "PT Sans", sans-serif;
+    font-weight: 700;
+    color: #ee3425;
 }
 
 .Blogs_Read_Arrow{
